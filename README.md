@@ -5,7 +5,9 @@
 This is my own personal page. You can find more on [my github page](https://github.com/NibutaniKuroko/)!
 
 ## Math Series
-|:[高等数学](https://github.com/NibutaniKuroko/HigherMathematics):|:[线性代数](https://github.com/NibutaniKuroko/LinearAlgebra):|
+|Higher Mathematics|Linear Algebra|
+|:----:|:----:|
+|[高等数学](https://github.com/NibutaniKuroko/HigherMathematics)|[线性代数](https://github.com/NibutaniKuroko/LinearAlgebra)|
 
 
 You can use the [editor on GitHub](https://github.com/NibutaniKuroko/NibutaniKuroko.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
