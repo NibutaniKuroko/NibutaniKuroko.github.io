@@ -5,7 +5,7 @@
 This is my own personal page. You can find more on [my github page](https://github.com/NibutaniKuroko/)!
 
 ## Math Series
-|Higher Mathematics|Linear Algebra|
+|[Higher Mathematics](https://github.com/NibutaniKuroko/HigherMathematics)|[Linear Algebra](https://github.com/NibutaniKuroko/LinearAlgebra)|
 |:----:|:----:|
 |[高等数学](https://github.com/NibutaniKuroko/HigherMathematics)|[线性代数](https://github.com/NibutaniKuroko/LinearAlgebra)|
 
